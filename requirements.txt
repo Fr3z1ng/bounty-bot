@@ -1,0 +1,9 @@
+PyTelegramBotAPI==3.6.3
+python-twitter
+facebook-sdk
+flask
+flask-sqlalchemy
+flask-migrate
+oauth2
+python-dotenv
+raven[flask]
